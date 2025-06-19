@@ -8,7 +8,7 @@ function Home() {
   return (
     <>
       <div style={{ display: "flex", gap: "50px", justifyContent: "center" }}>
-        <Card name="Card 1" linkText="see more" image={image1} />
+        <Card name="Card 1" linkText="read more" image={image1} />
         <Card name="Card 2" linkText="read more" image={image3}/>
         <Card name="Card 3" linkText="See all deals" image={image2}/>
         <Card name="Card 4" linkText="explore all" image={image4}/>
